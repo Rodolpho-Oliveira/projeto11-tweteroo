@@ -16,9 +16,9 @@ app.post("/sign-up", (req, res) =>{
 
 app.post("/tweets", (req, res) =>{
     for( ;tweets.length >= 10 ; ){
-        tweets.shift()
+        tweets.pop()
     }
-    tweets.push(req.body)
+    tweets.unshift(req.body)
     console.log("OK")
     res.send(req.body)
 })
