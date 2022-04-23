@@ -31,7 +31,7 @@ app.get("/tweets", (req, res) => {
         }
     }
     }
-    console.log(tweets)
+    console.log("OK")
     res.send(tweets)
 })
 
