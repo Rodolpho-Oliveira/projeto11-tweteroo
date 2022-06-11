@@ -1,7 +1,9 @@
-# TWETEROO
+<h1 align="center">TWETEROO</h1>
+<p align="center">
 <img src="https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f424.svg" alt="eae" width=200px/>
-
- The Tweteroo project is an API to create posts in a simple social media
+</p>
+<br>
+<p align="center"> <b>The Tweteroo project is an API to create posts in a simple social media<b> </p>
  
  ## INSTALLATION
  
@@ -51,4 +53,5 @@ $ npm install
    }
  ]
  ```
+ 
  
