@@ -9,7 +9,7 @@
  
  ```
 # Clone this repository
-$ git clone [git@github.com:Rodolpho-Oliveira/projeto11-tweteroo.git](https://github.com/Rodolpho-Oliveira/projeto11-tweteroo.git)
+$ git clone https://github.com/Rodolpho-Oliveira/projeto11-tweteroo.git
 
 # Go into the repository
 $ cd projeto11-tweteroo
